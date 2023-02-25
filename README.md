@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a bootcamp called 100Devs with Leon Noel.
+🔭 I’m currently working on a course called 100Devs with Leon Noel.
 
 🌱 I’m currently learning Javascript, OOP, and Git/Github in the course.
 
