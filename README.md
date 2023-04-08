@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a course called 100Devs with Leon Noel.
-
-🌱 I’m currently learning Javascript, OOP, and Git/Github in the course.
+🔭 I’m currently working with the 100Devs Agency.
 
 📫 How to reach me:
 
@@ -25,7 +23,7 @@ noeawisrealestate@gmail.com
 
 ⚡ Fun facts:
 
-I have run multiple long distance events, Ragnar Relay and David Goggins 4x4x48.
+I have run multiple long distance events, Ragnar Relay and David Goggins' 4x4x48.
 
 Languages:
 English, Spanish, some ASL, learning Turkish currently!
